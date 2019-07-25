@@ -81,7 +81,7 @@ Pull requests are very welcome!
 - **ALE:** [http://gemoc.org/ale-lang/](http://gemoc.org/ale-lang/)
 - **Kermeta 3:** [http://diverse-project.github.io/k3/](http://diverse-project.github.io/k3/)
 - **Spoofax DynSem:** [http://www.metaborg.org/en/latest/source/langdev/meta/lang/dynsem/index.html](http://www.metaborg.org/en/latest/source/langdev/meta/lang/dynsem/index.html) 
-- **CBS (omponent-based specification of programming languages):** [https://plancomps.github.io/CBS-beta/](https://plancomps.github.io/CBS-beta/)
+- **CBS (component-based specification of programming languages):** [https://plancomps.github.io/CBS-beta/](https://plancomps.github.io/CBS-beta/)
 
 
 ## Static semantics
